@@ -3,7 +3,7 @@
 '''
 Created on 2016年1月12日
 
-@author: suhan
+@author: androidsh2012
 @contact:  androidsh2012@gmail.com
 @note: python基础练习——函数'''
 
